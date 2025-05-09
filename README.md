@@ -7,7 +7,7 @@ I'm a passionate software engineer with over 6 years of experience focused on bu
 
 ## 🚀 About Me
 
-- 💻 Backend developer specializing in Java and .NET and know learning Go (Golang)
+- 💻 Backend developer specializing in Java and .NET and now, studying and learning Go (Golang)
 - 🏗️ Interested in distributed systems, concurrency, and microservices
 - 🧑‍💻 Always learning and sharing knowledge with the community
 
